@@ -47,7 +47,7 @@ if(isset($_SESSION['user'])){
 <?php
 } else {
     ?>
-<h1>This is not the login page</h1>
+<h1>This is not the login page</h1><!-- Git practice change -->
 <?php
 }
 ?>
